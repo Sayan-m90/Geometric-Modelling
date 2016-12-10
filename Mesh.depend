@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1461007698 source:c:\users\mesay\onedrive\documents\c++\mesh\catmull.cpp
+	"MeshGeneration.h"
+	"meshGeneration.h"
+	"iostream"
+	<string>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	"Catmull.h"
+
+1458159981 c:\users\mesay\onedrive\documents\c++\mesh\meshgeneration.h
+	<stdio.h>
+	<vector>
+	"Mesh.h"
+	<math.h>
+	<fstream>
+
+1459121011 c:\users\mesay\onedrive\documents\c++\mesh\mesh.h
+	<stdio.h>
+	<vector>
+	<set>
+	"iostream"
+
+1458409269 c:\users\mesay\onedrive\documents\c++\mesh\catmull.h
+
+1459198377 source:c:\users\mesay\onedrive\documents\c++\mesh\loop.cpp
+	"MeshGeneration.h"
+	"meshGeneration.h"
+	"iostream"
+	<string>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	"Loop.h"
+
+1459034456 c:\users\mesay\onedrive\documents\c++\mesh\loop.h
+
+1458071842 source:c:\users\mesay\onedrive\documents\c++\mesh\mesh.cpp
+	"Mesh.h"
+
+1458921548 source:c:\users\mesay\onedrive\documents\c++\mesh\meshgeneration.cpp
+	"meshGeneration.h"
+	"iostream"
+
+1461025470 source:c:\users\mesay\onedrive\documents\c++\mesh\mymesh.cpp
+	"MeshGeneration.h"
+	"meshGeneration.h"
+	"myMesh.h"
+	"iostream"
+	<string>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<iomanip>
+	"Catmull.h"
+	"Loop.h"
+	"Bspline.h"
+	<algorithm>
+
+1459035649 c:\users\mesay\onedrive\documents\c++\mesh\mymesh.h
+
+1460146408 c:\users\mesay\onedrive\documents\c++\mesh\bspline.h
+
+1460147551 source:c:\users\mesay\onedrive\documents\c++\mesh\bspline.cpp
+	"mesh.h"
+	"meshGeneration.h"
+	"iostream"
+	<string>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	"Bspline.h"
+
